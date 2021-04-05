@@ -1,5 +1,5 @@
 # Molar-Mass-Tool
-Tool that displays molar mass of periodic table element
+Tool that displays molar mass of periodic table elements
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MzM3NjY5OV19
+eyJoaXN0b3J5IjpbNjI0MTYzNjg2XX0=
 -->
